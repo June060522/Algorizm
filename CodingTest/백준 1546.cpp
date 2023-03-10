@@ -8,7 +8,7 @@ int main()
 	float sum = 0.0, max = 0;
 	cin >> cnt;
 
-	float arr[cnt];//백준에서는 댐
+	float arr[cnt];//백준에서는 댐 
 
 	for (int i = 0; i < cnt; i++)
 	{
