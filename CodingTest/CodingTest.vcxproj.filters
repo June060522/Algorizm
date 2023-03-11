@@ -27,7 +27,7 @@
     <ClCompile Include="백준 1008.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1040%28수정필요.cpp">
+    <ClCompile Include="백준 1040%28string.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준 2557.cpp">
@@ -130,6 +130,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준 10801.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10811.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1040%28stack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1040list.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
