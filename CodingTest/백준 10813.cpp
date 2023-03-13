@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
@@ -16,13 +17,14 @@ int main()
 		arr[i - 1] = i;
 	}
 
-	int a, b;
-
+	int a,b;
+	
 	for (int i = 0; i < repeat; i++)
 	{
 		cin >> a >> b;
-
-		swap(arr[a - 1], arr[b - 1]);
+		
+		for (int j = 0; j < round(((float)b - (float)a) / 2); j++)
+			swap(arr[a + j - 1], arr[b - j - 1]);
 	}
 
 	for (int i = 0; i < size; i++)
