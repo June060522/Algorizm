@@ -10,7 +10,7 @@ int main()
 	cin >> size >> repeat;
 	int* arr = new int[size];
 	int* savearr = new int[size];
-
+	
 	int begin = 0;
 	int middle = 0;
 	int end = 0;

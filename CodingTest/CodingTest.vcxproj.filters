@@ -207,5 +207,17 @@
     <ClCompile Include="백준 10812.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="코드업 1676.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 1678.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 1618.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1362.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
