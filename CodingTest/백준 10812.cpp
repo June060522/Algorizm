@@ -8,8 +8,8 @@ int main()
 	int repeat = 0;
 
 	cin >> size >> repeat;
-	int* arr = new int[size];
-	int* savearr = new int[size];
+	int arr[101] = { 0 };
+	int savearr[101] = { 0 };
 	
 	int begin = 0;
 	int middle = 0;
@@ -28,12 +28,12 @@ int main()
 		}
 		cin >> begin >> end >> middle;
 
-		for (int j = begin; j < end; j++)
+		for (int j = begin; j <= end; j++)
 		{
-			if (middle + j <= end)
-				arr[begin + j - 1] = savearr[middle + j - 1];
+			if (middle + j <= end  + begin)
+				arr[j - 1] = savearr[middle + j - begin - 1];
 			else
-				arr[begin + j - 1] = savearr[begin + middle + j - end - 1];
+				arr[j - 1] = savearr[begin - 1 + middle + j - end - begin - 1];
 		}
 	}
 
