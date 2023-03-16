@@ -1,35 +1,37 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-int num, sum, cnt = 0;
-int numarr[1000000];
-void f(int, int[]);
+long long num, sum, answer = 0;
+vector<long long> numarr;
+void basic();
 int main()
 {
-	ios_base::sync_with_stdio(false); cout.tie(NULL); cin.tie(NULL);
 	cin >> num >> sum;
-
+	numarr.assign(sum,0);
+	long long tmp,cnt = 0;
 	for (int i = 0; i < num; i++)
 	{
-		cin >> numarr[i];
+		cin >> tmp;
+		cnt += tmp;
+		numarr[cnt % sum]++;
+		if (cnt % sum == 0)
+			answer++;
 	}
-
-	for (int i = 0; i < num; i++)
+	for (int i = 0; i < sum; i++)
 	{
-		f(i, numarr);
+		if (numarr[i] >= 2) 
+			answer += numarr[i] * (numarr[i] - 1) / 2;
 	}
 
-	cout << cnt;
+	cout << answer;
 }
 
-void f(int a, int arr[])
+void basic()
 {
-	int isum = 0;
-	for (int i = a; i < num; i++)
-	{
-		isum += arr[i];
-		if (isum % sum == 0)
-			cnt++;
-	}
+	ios_base::sync_with_stdio(false);
+	cout.tie(NULL);
+	cin.tie(NULL);
+
 }
