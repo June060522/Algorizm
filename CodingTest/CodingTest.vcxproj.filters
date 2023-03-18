@@ -255,9 +255,6 @@
     <ClCompile Include="백준 2941.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1316.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="코드업 2832.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -300,9 +297,6 @@
     <ClCompile Include="백준 22501.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 24060.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2563.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -322,6 +316,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준 2742.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2577.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
