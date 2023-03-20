@@ -366,10 +366,28 @@
     <ClCompile Include="백준 2839.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include=".test.cpp">
+    <ClCompile Include="백준 1978.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1978.cpp">
+    <ClCompile Include="코드업 1038.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 1028.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코이스터디 2664.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코이스터디 2649.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 2834-2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코이스토리 2668.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="코드업 4439-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
