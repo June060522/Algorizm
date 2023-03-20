@@ -31,8 +31,8 @@ void Slide(int openDoor1, int openDoor2, int idx, int cnt)
 		if (cnt < minValue)
 		{
 			minValue = cnt;
-			return;
 		}
+		return;
 	}
 
 	Slide(openDoor1, inputArr[idx], idx + 1,cnt + solve(inputArr[idx], openDoor2));
