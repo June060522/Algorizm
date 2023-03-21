@@ -384,7 +384,7 @@
     <ClCompile Include="코드업 2834-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="코이스토리 2668.cpp">
+    <ClCompile Include="코이스터디 2668.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="코드업 4439-2.cpp">
@@ -430,6 +430,42 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="코이스터디 2652.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 13305.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5357.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 4589.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 15873.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10039.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10808.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 7595.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5717.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5524.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5596.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10156.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5532.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
