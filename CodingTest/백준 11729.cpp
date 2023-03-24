@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+#include <math.h>
 
 using namespace std;
 
@@ -8,7 +8,8 @@ int main()
 {
 	int num = 0;
 	cin >> num;
-	cout << pow(2,num) - 1 << "\n";
+	int k = (int)(pow(2, num) - 1);
+	cout << k << "\n";
 	TowerMove(num,1, 2, 3);
 }
 
@@ -22,6 +23,5 @@ void TowerMove(int num,int one ,int two, int three)
 		cout << one<< " "<< three << "\n";
 		TowerMove(num - 1, two, one, three);
 	}
-
-	
+	return;
 }
