@@ -21,7 +21,7 @@
     <Filter Include="소스 파일\코이스터디">
       <UniqueIdentifier>{c370dee6-fbdf-47f8-aa90-b0e87455c240}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\헤더 파일">
+    <Filter Include="헤더 파일">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
@@ -562,7 +562,16 @@
       <Filter>소스 파일\코이스터디</Filter>
     </ClCompile>
     <ClCompile Include="백준 1920.cpp">
-      <Filter>소스 파일\Test</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1654.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2805.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1300.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
