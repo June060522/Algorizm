@@ -4,26 +4,25 @@ using namespace std;
 
 int main()
 {
-	int n, k = 0;
+	long long int n, k = 0;
 	cin >> n >> k;
-	long long int low = 0, middle = 0, high = n * n, answer = 0,ans = n * n;
-	while (low <= high)
+	long long int low = 0, middle = 0, high = n * n, answer = 0;
+	while (low < high)
 	{
 		middle = (high + low) / 2;
 		answer = 0;
 
 		for (int i = 1; i <= n; i++)
 		{
-			answer += (middle / i < n )? middle / i : n;
+			answer += min(n , middle/i);
 		}
-		if (answer >= k)
+		if (answer < k)
 		{
-			ans = min(ans,middle);
 			low = middle + 1;
 		}
-		else if(answer < k)
-			high = middle - 1;
+		else if (answer >= k)
+			high = middle;
 	}
 
-	cout << ans;
+	cout << low;
 }
