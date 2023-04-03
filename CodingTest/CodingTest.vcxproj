@@ -175,6 +175,7 @@
     <ClCompile Include="백준 2475.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="백준 25640.cpp" />
     <ClCompile Include="백준 2579.cpp" />
     <ClCompile Include="백준 2587.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
