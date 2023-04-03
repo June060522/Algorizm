@@ -7,6 +7,7 @@ int main()
 {
 	int repeat = 0;
 	int cnt = 0;
+	bool isChk = false;
 	string input;
 	cin >> repeat;
 
@@ -16,17 +17,20 @@ int main()
 		cin >> input;
 		for (int j = 0; j < input.size(); j++)
 		{
+			isChk = false;
 			if (j == 0)
 			{
 				v.push_back(input[j]);
 			}
 			else if(input[j] != input[j-1])
 			{
-				auto a = find(v.begin(), v.end(), input[j]);
-				if (a != v.end())
+				for (int k = 0; k < v.size() - 1; k++)
 				{
-					break;
+					if (input[j] == v[k])
+						isChk = true;
 				}
+				if (isChk)
+					break;
 				v.push_back(input[j]);
 			}
 
