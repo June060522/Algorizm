@@ -20,7 +20,7 @@ int main()
 		{
 			low = middle + 1;
 		}
-		else if (answer >= k)
+		else
 			high = middle;
 	}
 
