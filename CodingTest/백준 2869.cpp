@@ -11,6 +11,9 @@ int main()
 	int day = a - b;
 	int dmax = v - a;
 
-	print = dmax / day;
-	cout << ++print;
+	print = ceil((double)dmax / (double)day);
+	if (day * print >= v)
+		cout << print;
+	else
+		cout << ++print;
 }
