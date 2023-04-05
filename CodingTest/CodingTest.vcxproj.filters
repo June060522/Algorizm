@@ -627,10 +627,10 @@
     <ClCompile Include="백준 10816.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 12015.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1225.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12015.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
