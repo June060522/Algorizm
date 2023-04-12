@@ -1,38 +1,67 @@
 #include <iostream>
 #include <stack>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-	stack<char> s;
+	stack<string> s;
 	char input = ' ';
-	int cnt = 0;
+	int num = 0;
 	while (cin >> input)
 	{
 		if (input == 'a')
 			break;
+
 		if (input == ')')
 		{
-			if(s.top() != '(')
-
-			s.pop();
-			s.push('2');
+			if (s.top() != "(")
+			{
+				if (s.top() == "[" || s.top() == "]" || s.top() == "(")
+				{
+					cout << 0;
+					return 0;
+				}
+				else
+				{
+					s.pop();
+					s.push("2");
+				}
+			}
+			else
+			{
+				num = stoi(s.top());
+				s.pop();
+				s.push(to_string(num * 2));
+			}
 		}
 		else if (input == ']')
 		{
-			if(s.top() != '[')
-			s.pop();
-			s.push('3');
+			if (s.top() != "[")
+			{
+				if (s.top() == "[" || s.top() == ")" || s.top() == "(")
+				{
+					cout << 0;
+					return 0;
+				}
+				else
+				{
+					num = stoi(s.top());
+					s.pop();
+					s.push(to_string(num * 3));
+				}
+			}
+			else
+			{
+				s.pop();
+				s.push("3");
+			}
 		}
 		else
 		{
-			s.push(input);
+			s.push(to_string(input));
 		}
 	}
-	while (!s.empty())
-	{
-		cout << s.top() << endl;
-		s.pop();
-	}
+	cout << s.top() << endl;
 }
