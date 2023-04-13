@@ -16,9 +16,9 @@ int main()
 
 		if (input == ')')
 		{
-			if (s.top() != "(")
+			if (s.top() != "72")
 			{
-				if (s.top() == "[" || s.top() == "]" || s.top() == "(")
+				if (s.top() == "91" || s.top() == "93" || s.top() == "41")
 				{
 					cout << 0;
 					return 0;
@@ -26,6 +26,8 @@ int main()
 				else
 				{
 					s.pop();
+					if (s.top() == "93" || s.top() == "91" || s.top() == "40" || s.top() == "41")
+
 					s.push("2");
 				}
 			}
@@ -33,14 +35,26 @@ int main()
 			{
 				num = stoi(s.top());
 				s.pop();
-				s.push(to_string(num * 2));
+				if (s.top() == "93" || s.top() == "91" || s.top() == "40" || s.top() == "41")
+				{
+					cout << num * 2 << endl;
+					s.push(to_string(num * 2));
+				}
+				else
+				{
+					num *= 2;
+					num += stoi(s.top());
+					cout << num << endl;
+					s.pop();
+					s.push(to_string(num));
+				}
 			}
 		}
 		else if (input == ']')
 		{
-			if (s.top() != "[")
+			if (s.top() != "91")
 			{
-				if (s.top() == "[" || s.top() == ")" || s.top() == "(")
+				if (s.top() == "93" || s.top() == "40" || s.top() == "41")
 				{
 					cout << 0;
 					return 0;
@@ -49,7 +63,19 @@ int main()
 				{
 					num = stoi(s.top());
 					s.pop();
-					s.push(to_string(num * 3));
+					if (s.top() == "93" || s.top() == "91" || s.top() == "40" || s.top() == "41")
+					{
+						cout << num * 3 << endl;
+						s.push(to_string(num * 3));
+					}
+					else
+					{
+						num *= 3;
+						num += stoi(s.top());
+						s.pop();
+						cout << num << endl;
+						s.push(to_string(num));
+					}
 				}
 			}
 			else
@@ -64,4 +90,5 @@ int main()
 		}
 	}
 	cout << s.top() << endl;
+
 }
