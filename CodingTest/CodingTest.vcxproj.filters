@@ -708,9 +708,6 @@
     <ClCompile Include="백준 2446.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2504.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="코드업 3021.cpp">
       <Filter>소스 파일\코드업</Filter>
     </ClCompile>
@@ -739,6 +736,12 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 6840.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2504.cpp">
+      <Filter>소스 파일\못푼문제</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 15649.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
