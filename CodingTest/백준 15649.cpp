@@ -21,7 +21,7 @@ bool check(string a, string b)
 		return true;
 
 	return false;
-}
+} 
 
 int main()
 {
