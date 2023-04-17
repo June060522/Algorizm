@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\못푼문제">
       <UniqueIdentifier>{2bb9cb1a-f610-459e-b9e9-e4b595b027e7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{886014b1-c051-43b7-a255-2274e04f52d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="백준 1000.cpp">
@@ -189,7 +192,7 @@
     <ClCompile Include="백준 2754.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2789.cpp">
+    <ClCompile Include="백준 2798.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2839.cpp">
@@ -735,13 +738,37 @@
     <ClCompile Include="백준 1181.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 6840.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2504.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 두개 뽑아서 더하기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 6840.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 25206.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1193.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10866.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
     <ClCompile Include="백준 15649.cpp">
+      <Filter>소스 파일\못푼문제</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10814.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 4153.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10250.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
