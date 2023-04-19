@@ -1071,5 +1071,11 @@
     <ClCompile Include="백준 13277.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
+    <ClCompile Include="백준 15439.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5430.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
