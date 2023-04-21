@@ -1083,19 +1083,34 @@
     <ClCompile Include="백준 1715.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1417.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2014.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 15903.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 23254.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 5554.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 1103.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1417.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2014.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 15903.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5543.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16204.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 23795.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24883.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 20499.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
