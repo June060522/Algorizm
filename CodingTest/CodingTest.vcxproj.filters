@@ -1110,17 +1110,26 @@
     <ClCompile Include="백준 24883.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 20499.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="각 행의 평균과 가장 가까운 값.cpp">
+      <Filter>소스 파일\Class</Filter>
     </ClCompile>
-    <ClCompile Include="백준 24263.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="gmrgmr.cpp">
+      <Filter>소스 파일\Class</Filter>
     </ClCompile>
     <ClCompile Include="백준 11948.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 20499.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24263.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 27110.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1072.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
