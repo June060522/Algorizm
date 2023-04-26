@@ -1164,5 +1164,14 @@
     <ClCompile Include="백준 24265.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1544.cpp">
+      <Filter>소스 파일\못푼문제</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2776.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 옹알이.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
