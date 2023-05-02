@@ -1191,9 +1191,6 @@
     <ClCompile Include="백준 1252.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2775.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 10480.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1203,13 +1200,58 @@
     <ClCompile Include="백준 1935.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1918.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2747.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 2775.cpp">
+      <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
     <ClCompile Include="코드업 3740.cpp">
+      <Filter>소스 파일\못푼문제</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1918.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2747.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 25703.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 17362.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24079.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24087.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24803.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 25625.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 25628.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 26768.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 27541.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24723.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 24365.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 26495.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 9316.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 6916.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
