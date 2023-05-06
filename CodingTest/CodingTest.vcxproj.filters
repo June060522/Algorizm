@@ -1200,9 +1200,6 @@
     <ClCompile Include="백준 1935.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2775.cpp">
-      <Filter>소스 파일\못푼문제</Filter>
-    </ClCompile>
     <ClCompile Include="코드업 3740.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
@@ -1294,7 +1291,10 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 18408.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2775.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
