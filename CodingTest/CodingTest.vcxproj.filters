@@ -843,7 +843,7 @@
     <ClCompile Include="백준 1809.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="벡준 2372.cpp">
+    <ClCompile Include="백준 2372.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2377.cpp">
@@ -1152,7 +1152,7 @@
     <ClCompile Include="백준 21942.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="벡준 14425.cpp">
+    <ClCompile Include="백준 14425.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 24266.cpp">
@@ -1178,9 +1178,6 @@
     </ClCompile>
     <ClCompile Include="백준 1874.cpp">
       <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1021.cpp">
-      <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
     <ClCompile Include="백준 1966.cpp">
       <Filter>소스 파일\백준</Filter>
@@ -1295,6 +1292,36 @@
     </ClCompile>
     <ClCompile Include="백준 2775.cpp">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1021.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 18258 - vector.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="큐 구현.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 25828.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11945.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11943.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2903.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 6778.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16486.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 15232.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
