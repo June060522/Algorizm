@@ -19,7 +19,8 @@ public:
 			cout << "큐가 꽉 찼음" << endl;
 			return;
 		}
-		buf[reer++] = num;
+		buf[reer] = num;
+		reer = (reer + 1) % qsize;
 	}
 	bool IsEmpty()
 	{
@@ -29,7 +30,7 @@ public:
 	}
 	bool IsFull()
 	{
-		if (reer == qsize)
+		if ((reer + 1) % qsize == front)
 			return true;
 		return false;
 	}
@@ -37,11 +38,14 @@ public:
 	{
 		if (front == reer)
 		{
-			cout << "큐가 비워져 있음";
+			cout << "큐가 비워져 있음" << endl;
 			return -1;
 		}
-		return buf[front++];
+		int a = buf[front];
+		front = (front + 1) % qsize;
+		return a;
 	}
+
 public:
 	int* buf;
 	int qsize;
@@ -49,21 +53,39 @@ public:
 	int reer;
 };
 
-int main()
+void print_queue(Queue q)
 {
-	int i;
-	Queue q1;
-	q1.InitQueue(10);
-	for (int i = 1; i <= 11; i++)
+	cout << "front=" << q.front << " ";
+	cout << "reer = " << q.reer << " | ";
+	int i = 0;
+	while ((q.front + i) % q.qsize != q.reer)
 	{
-		cout << i << " 입력\n";
-		q1.Enqueue(i);
-	}
-	cout << endl;
-
-	while (!q1.IsEmpty())
-	{
-		cout << q1.Dequeue() << " 출력\n";
+			cout << q.buf[(q.front + i) % q.qsize] << " | ";
+			i++;
 	}
 	cout << endl;
 }
+
+int main()
+{
+	Queue q1;
+	q1.InitQueue(4);
+	for (int i = 1; i < 5; i++)
+	{
+		q1.Enqueue(i);
+		print_queue(q1);
+	}
+
+	for (int i = 1; i < 5; i++)
+	{
+		q1.Dequeue();
+		print_queue(q1);
+	}
+
+	for (int i = 1; i < 5; i++)
+	{
+		q1.Enqueue(i);
+		print_queue(q1);
+	}
+}
+
