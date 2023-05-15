@@ -1384,9 +1384,24 @@
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 기능 개발.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 프로세스.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 27855.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11549.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 13597.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 27213.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 20352.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
