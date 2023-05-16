@@ -1404,5 +1404,8 @@
     <ClCompile Include="백준 20352.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="백준 27918.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
