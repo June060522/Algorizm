@@ -1498,6 +1498,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="test1.cpp">
+      <Filter>소스 파일\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 6887.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
