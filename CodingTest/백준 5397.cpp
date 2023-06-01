@@ -19,27 +19,30 @@ int main()
 		{
 			if (input[i] == '<')
 			{
-				if (iter != l.end())
-					iter++;
-			}
-			else if (input[i] == '>')
-			{
 				if (iter != l.begin())
 					iter--;
 			}
+			else if (input[i] == '>')
+			{
+				if (iter != l.end())
+					iter++;
+			}
 			else if (input[i] == '-')
 			{
-				if(iter != l.end())
-					iter = l.erase(iter);
+				if (iter != l.begin())
+					iter = l.erase(--iter);
 			}
 			else
 			{
 				iter = l.insert(iter, input[i]);
+				iter++;
 			}
 		}
-		l.reverse();
-		for (auto i : l)
-			cout << i;
+
+		for (iter = l.begin(); iter != l.end(); iter++)
+		{
+			cout << *iter;
+		}
 		cout << '\n';
 	}
 }

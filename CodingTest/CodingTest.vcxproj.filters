@@ -1524,11 +1524,11 @@
     <ClCompile Include="백준 5939.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="프로그래머스 괄호 회전하기.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="프로그래머스 다리를 지나는 트럭.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="다리를 지나는 트럭.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="프로그래머스 괄호 회전하기.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
