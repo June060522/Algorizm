@@ -1563,7 +1563,25 @@
     <ClCompile Include="백준 11868.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
+    <ClCompile Include="백준 5800.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
     <ClCompile Include="백준 10867.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="소트연습.cpp">
+      <Filter>소스 파일\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 k번째 수.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2792.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이분탐색.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11004.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
