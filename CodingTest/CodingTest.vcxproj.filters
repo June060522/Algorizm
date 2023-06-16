@@ -1575,9 +1575,6 @@
     <ClCompile Include="프로그래머스 k번째 수.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1302.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2792.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1587,8 +1584,14 @@
     <ClCompile Include="이분탐색.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1822.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1302.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
     <ClCompile Include="백준 1316 - 2.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
