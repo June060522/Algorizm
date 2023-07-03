@@ -7,23 +7,41 @@
 //	cout.tie(nullptr);
 //	ios::sync_with_stdio(false);
 //
-//	stack<pair<int,int>> s;
+//	stack<int> s;
+//	stack<int> save;
+//	stack<int> solution;
 //
 //	int input;
 //	int repeat;
 //
-//	long long cnt = 0;
+//	int cnt = 0;
 //
 //	cin >> repeat;
 //	for (int i = 0; i < repeat; i++)
 //	{
 //		cin >> input;
-//		if(!s.empty())
-//			s.push(input);
-//		else
+//		s.push(input);
+//	}
+//
+//	int max = 0;
+//	while (!s.empty())
+//	{
+//		solution = save;
+//		while (!solution.empty() && s.top() <= solution.top())
 //		{
-//			
+//			cnt++;
+//			solution.pop();
 //		}
+//
+//		if (!solution.empty())
+//			cnt++;
+//
+//		while (!save.empty() && s.top() > save.top())
+//		{
+//			save.pop();
+//		}
+//		save.push(s.top());
+//		s.pop();
 //	}
 //
 //	cout << cnt;
