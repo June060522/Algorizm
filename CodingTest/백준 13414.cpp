@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-	map<int,int>m;
-	map<int,int>m2;
+	map<string,int>m;
+	map<int,string>m2;
 
 	int answer = 0;
 	int repeat = 0;
-	int input = 0;
+	string input;
 
 	cin >> answer >> repeat;
 
