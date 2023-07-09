@@ -1650,13 +1650,19 @@
     <ClCompile Include="백준 11478.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 11652.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 2789.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 8674.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11652.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 6198.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 14544.cpp">
+    <ClCompile Include="백준 1735.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
