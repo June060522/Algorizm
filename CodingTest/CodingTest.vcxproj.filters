@@ -1665,5 +1665,11 @@
     <ClCompile Include="백준 1735.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스 오픈채팅방.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10799.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
