@@ -1,45 +1,37 @@
-//#include <iostream>
-//#include <string>
-//#include <algorithm>
-//using namespace std;
-//
-//string arrS[100000];
-//bool check(string a, string b)
-//{
-//	string sa = "";
-//	sa += a[0];
-//	sa += a[1];
-//	sa += a[2];
-//	string sb = "";
-//	sb += b[0];
-//	sb += b[1];
-//	sb += b[2];
-//	int ai = stoi(sa);
-//	int bi = stoi(sb);
-//
-//	if(ai < bi)
-//		return true;
-//
-//	return false;
-//} 
-//
-//int main()
-//{
-//	cin.tie(NULL);
-//	cout.tie(NULL);
-//	ios::sync_with_stdio(false);
-//
-//	int repeat = 0;
-//	cin >> repeat;
-//	string s;
-//	getline(cin, s);
-//	for (int i = 0; i < repeat; i++)
-//		getline(cin, arrS[i]);
-//
-//	sort(arrS, arrS + repeat, check);
-//
-//	for (int i = 0; i < repeat; i++)
-//	{
-//		cout << arrS[i] << "\n";
-//	}
-//}
+#include<iostream>
+
+using namespace std;
+
+int arr[9];
+bool isvisit[9];
+void backTraking(int n, int m, int cnt)
+{
+	if (m == cnt)
+	{
+		for (int i = 0; i < cnt; i++)
+		{
+			cout << arr[i] << " ";
+		}
+		cout << '\n';
+		return;
+	}
+	else
+	{
+		for (int i = 0; i < n; i++)
+		{
+			if (isvisit[i] == true) continue;
+			isvisit[i] = true;
+			arr[cnt] = i + 1;
+			backTraking(n, m, cnt + 1);
+			arr[cnt] = 0;
+			isvisit[i] = false;
+		}
+	}
+}
+
+int main()
+{
+	int n, m;
+	cin >> n >> m;
+	backTraking(n, m, 0);
+}
