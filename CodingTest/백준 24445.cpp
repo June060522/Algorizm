@@ -32,7 +32,7 @@ void Bfs(int start) {
 
 int main()
 {
-    int a,b,start;
+    int a, b, start;
     cin >> a >> b >> start;
     int c, d;
     for (int i = 0; i < b; i++)
@@ -42,9 +42,9 @@ int main()
         graph[d].push_back(c);
     }
 
-    for (int i = 0; i < =a; i++)
+    for (int i = 0; i <= a; i++)
     {
-        sort(graph[i].begin(), graph[i].end());
+        sort(graph[i].begin(), graph[i].end(), greater<>());
     }
 
     Bfs(start);
