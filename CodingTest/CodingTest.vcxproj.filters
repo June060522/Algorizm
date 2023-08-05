@@ -1896,28 +1896,31 @@
     <ClCompile Include="백준 14003.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2225.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2864.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준10844.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2193.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 15624.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 2225.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2864.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 14495.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 15624.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 17175.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준10844.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 17216.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2293.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
