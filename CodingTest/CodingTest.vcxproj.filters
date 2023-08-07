@@ -1920,9 +1920,6 @@
     <ClCompile Include="백준 2293.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 15989.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 9461.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1931,6 +1928,12 @@
     </ClCompile>
     <ClCompile Include="백준 17863.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 18352.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1753.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
