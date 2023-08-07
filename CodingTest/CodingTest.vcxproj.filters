@@ -1923,16 +1923,19 @@
     <ClCompile Include="백준 9461.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 14003.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 1753.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 17863.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 18352.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1753.cpp">
+    <ClCompile Include="백준 1916.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11657.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
