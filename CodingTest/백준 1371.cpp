@@ -13,6 +13,7 @@ int main()
 		for (int i = 0; i < s.length(); i++)
 		{
 			arr[s[i] - 'a']++;
+			cout << arr[s[i] - 'a'];
 		}
 	}
 
