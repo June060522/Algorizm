@@ -1989,7 +1989,7 @@
     <ClCompile Include="백준 1371.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="testcpp.cpp">
+    <ClCompile Include="백준 28352.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
