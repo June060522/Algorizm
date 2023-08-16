@@ -1,9 +1,11 @@
 #include <iostream>
 #include <queue>
+#include <cmath>
 using namespace std;
 
 typedef struct edge {
-	int s, e, v;
+	long long int s, e;
+	double v;
 	bool operator > (const edge& temp) const {
 		return v > temp.v;
 	}
@@ -25,9 +27,9 @@ int find(int a) {
 
 int main()
 {
-	int n;
-	cin >> n;
-
+	int n, m;
+	cin >> n >> m;
+	vector<pair<int, int>> xy;
 	priority_queue<edge, vector<edge>, greater<edge>> pq;
 	vec.resize(n + 1);
 
@@ -36,31 +38,34 @@ int main()
 		vec[i] = i;
 	}
 
-	int answer = 0;
-	int val;
-	string s;
+	long long int start, end, val;
 	for (int i = 1; i <= n; i++)
 	{
-		cin >> s;
-		for (int j = 0; j < n; j++)
+		cin >> start >> end;
+		for (int j = 0; j < xy.size(); j++)
 		{
-			val = 0;
-			if (s[j] >= 'a' && s[j] <= 'z')
-				val = s[j] - 'a' + 1;
-			else if (s[j] >= 'A' && s[j] <= 'Z')
-				val = s[j] - 'A' + 27;
-
-			answer += val;
-
-			if (val != 0 && i != j + 1)
-				pq.push(edge{ i,j + 1,val });
+			pq.push(edge{ i,j + 1,sqrt(pow(xy[j].first - start,2) + pow(xy[j].second - end,2)) });
 		}
+		xy.push_back(make_pair(start, end));
 	}
 
-	int useEdg = 0;
+	double answer = 0;
+	int useEdg = 1;
 
+	for (int i = 0; i < m; i++)
+	{
+		cin >> start >> end;
+		start = find(start);
+		end = find(end);
+		if (start != end)
+		{
+			vec[end] = start;
+			useEdg++;
+		}
 
-	while (!pq.empty())
+	}
+
+	while (useEdg < n)
 	{
 		edge e = pq.top();
 		pq.pop();
@@ -72,14 +77,12 @@ int main()
 			if (a != b)
 				vec[b] = a;
 
-			answer -= e.v;
+			answer += e.v;
 
 			useEdg++;
 		}
 	}
-
-	if (useEdg >= n - 1)
-		cout << answer;
-	else
-		cout << -1;
+	cout << fixed;
+	cout.precision(2);
+	cout << answer;
 }

@@ -25,6 +25,8 @@ int find(int a) {
 
 int main()
 {
+	ios::sync_with_stdio(false);
+
 	int n;
 	cin >> n;
 
@@ -36,31 +38,23 @@ int main()
 		vec[i] = i;
 	}
 
-	int answer = 0;
+	long long int answer = 0;
 	int val;
 	string s;
 	for (int i = 1; i <= n; i++)
 	{
-		cin >> s;
-		for (int j = 0; j < n; j++)
+		for (int j = 1; j <= n; j++)
 		{
-			val = 0;
-			if (s[j] >= 'a' && s[j] <= 'z')
-				val = s[j] - 'a' + 1;
-			else if (s[j] >= 'A' && s[j] <= 'Z')
-				val = s[j] - 'A' + 27;
-
-			answer += val;
-
-			if (val != 0 && i != j + 1)
-				pq.push(edge{ i,j + 1,val });
+			cin >> val;
+			if (i != j)
+				pq.push(edge{i,j,val});
 		}
 	}
 
-	int useEdg = 0;
+	int useEdg = 1;
 
 
-	while (!pq.empty())
+	while (useEdg < n)
 	{
 		edge e = pq.top();
 		pq.pop();
@@ -72,14 +66,10 @@ int main()
 			if (a != b)
 				vec[b] = a;
 
-			answer -= e.v;
+			answer += e.v;
 
 			useEdg++;
 		}
 	}
-
-	if (useEdg >= n - 1)
 		cout << answer;
-	else
-		cout << -1;
 }
