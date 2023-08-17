@@ -34,65 +34,53 @@
     <Filter Include="소스 파일\프로그래머스">
       <UniqueIdentifier>{886014b1-c051-43b7-a255-2274e04f52d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준\세그먼트트리">
+      <UniqueIdentifier>{e496d6ce-77e0-4695-9f32-a8e3e76d91cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\큐">
+      <UniqueIdentifier>{8c4c2d63-4562-43fb-806e-641c40477fb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\스택">
+      <UniqueIdentifier>{22d6fa2c-c87d-400b-b8b4-beed7f52deb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\문자열">
+      <UniqueIdentifier>{7cfc283c-0333-45f7-a532-f34d813b397d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\DP">
+      <UniqueIdentifier>{c4783a38-ec89-4642-9625-bcf0521099d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\DFS,BFS">
+      <UniqueIdentifier>{bf4f7e4c-5b3a-4be4-9d6f-127ca0354425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\리스트">
+      <UniqueIdentifier>{293e8ca2-25df-4a6a-91a6-ebafe50d2c1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\덱">
+      <UniqueIdentifier>{dfa91bd6-6e6a-422c-8c05-4a654463c3d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\이분탐색">
+      <UniqueIdentifier>{659ce068-e92d-4148-84bf-5f3d0caf658f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\맵셋">
+      <UniqueIdentifier>{5c2c66dd-fd81-46d6-b4bd-54b3024b69b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\백트레킹">
+      <UniqueIdentifier>{13ed8c70-5f91-4d35-87d6-df6b43e394ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\정렬">
+      <UniqueIdentifier>{ac09b465-7126-43a9-8e6b-912c4178e841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\그리디">
+      <UniqueIdentifier>{5bd84c9d-7e75-4dd0-a782-4c3e2705e2c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\구현, 수학">
+      <UniqueIdentifier>{be345724-edf0-4c5f-b730-ce9d37c09634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\최소스패닝">
+      <UniqueIdentifier>{9567ba0b-9133-4ab4-96aa-caaa60b7fadd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준 1000.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1001.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1008.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1040%28stack.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1040%28string.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1040list.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1065.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1110.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1152.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1157.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1174.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1237.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1264.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1266.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1316.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1330.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1463.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1546.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1629.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1914.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -570,12 +558,6 @@
     <ClCompile Include="백준 1920.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1300.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1654.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2805.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -586,9 +568,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 8958.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1018.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2108.cpp">
@@ -606,9 +585,6 @@
     <ClCompile Include="백준 25640.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1009.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 13866.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -622,9 +598,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 10816.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1225.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="Math-size.cpp">
@@ -723,9 +696,6 @@
     <ClCompile Include="백준 20920.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1312.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2303.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -733,9 +703,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 9012.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1181.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2504.cpp">
@@ -753,9 +720,6 @@
     <ClCompile Include="백준 25206.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1193.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 10866.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -771,12 +735,6 @@
     <ClCompile Include="백준 2161.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1158.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1259.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 11050.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -787,9 +745,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 12873.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1085.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2292.cpp">
@@ -805,9 +760,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2231.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1015.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 4949.cpp">
@@ -972,9 +924,6 @@
     <ClCompile Include="백준 25381.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1655.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 24763.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1074,19 +1023,10 @@
     <ClCompile Include="백준 5430.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1202.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1715.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 5554.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1103.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1417.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2014.cpp">
@@ -1125,16 +1065,10 @@
     <ClCompile Include="백준 27110.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1072.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="연속된 자연수의 합.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
     <ClCompile Include="백준 11279.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1269.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 9375.cpp">
@@ -1167,9 +1101,6 @@
     <ClCompile Include="프로그래머스 옹알이.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1075.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1874.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1177,9 +1108,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 5073.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1252.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 10480.cpp">
@@ -1287,9 +1215,6 @@
     <ClCompile Include="백준 2775.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1021.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 18258 - vector.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1342,9 +1267,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 15963.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1427.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 15596.cpp">
@@ -1449,9 +1371,6 @@
     <ClCompile Include="c++ 연결리스트.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1158 연결리스트.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 17827.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1500,13 +1419,7 @@
     <ClCompile Include="백준 6888.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1500.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 20353.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1620.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 1764.cpp">
@@ -1534,9 +1447,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 9655.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1544.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 11645.cpp">
@@ -1584,12 +1494,6 @@
     <ClCompile Include="백준 1822.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1302.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1316 - 2.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 10610.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1629,12 +1533,6 @@
     <ClCompile Include="백준 16165.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1292.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1547.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2910.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
@@ -1659,9 +1557,6 @@
     <ClCompile Include="프로그래머스 오픈채팅방.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1439.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1735.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1675,9 +1570,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 15666.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1083.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 15649.cpp">
@@ -1713,9 +1605,6 @@
     <ClCompile Include="백준 15665.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1182.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2992.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1732,9 +1621,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 16120.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1388.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2606.cpp">
@@ -1762,9 +1648,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 24483.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1260.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2667.cpp">
@@ -1795,9 +1678,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 24445.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1012.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2178.cpp">
@@ -1833,9 +1713,6 @@
     <ClCompile Include="백준 12851.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1003.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 2133.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1852,9 +1729,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 16194.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1309.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 11727.cpp">
@@ -1950,12 +1824,6 @@
     <ClCompile Include="백준 6497.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1197.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1647.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1717.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -1983,9 +1851,6 @@
     <ClCompile Include="백준 28352.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1371.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 9711.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -2004,9 +1869,6 @@
     <ClCompile Include="백준 16398 .cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2042.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="백준 25777.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
@@ -2014,9 +1876,6 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 1774.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1414.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 11047.cpp">
@@ -2031,11 +1890,197 @@
     <ClCompile Include="백준 4763.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 10868.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 2042.cpp">
+      <Filter>소스 파일\백준\세그먼트트리</Filter>
     </ClCompile>
     <ClCompile Include="백준 2357.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\세그먼트트리</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10868.cpp">
+      <Filter>소스 파일\백준\세그먼트트리</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1040%28stack.cpp">
+      <Filter>소스 파일\백준\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1040list.cpp">
+      <Filter>소스 파일\백준\리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1040%28string.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1021.cpp">
+      <Filter>소스 파일\백준\덱</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1000.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1001.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1003.cpp">
+      <Filter>소스 파일\백준\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1008.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1009.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1012.cpp">
+      <Filter>소스 파일\백준\DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1015.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1065.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1075.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1181.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1225.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1197.cpp">
+      <Filter>소스 파일\백준\최소스패닝</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1103.cpp">
+      <Filter>소스 파일\백준\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1072.cpp">
+      <Filter>소스 파일\백준\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1018.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1158 연결리스트.cpp">
+      <Filter>소스 파일\백준\리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1193.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1237.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1085.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1174.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1158.cpp">
+      <Filter>소스 파일\백준\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1182.cpp">
+      <Filter>소스 파일\백준\백트레킹</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1152.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1157.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1083.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1110.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1264.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1252.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1202.cpp">
+      <Filter>소스 파일\백준\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1259.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1260.cpp">
+      <Filter>소스 파일\백준\DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1266.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1269.cpp">
+      <Filter>소스 파일\백준\맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1292.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1302.cpp">
+      <Filter>소스 파일\백준\맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1309.cpp">
+      <Filter>소스 파일\백준\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1316 - 2.cpp">
+      <Filter>소스 파일\백준\맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1300.cpp">
+      <Filter>소스 파일\백준\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1312.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1316.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1330.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1371.cpp">
+      <Filter>소스 파일\백준\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1414.cpp">
+      <Filter>소스 파일\백준\최소스패닝</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1388.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11505.cpp">
+      <Filter>소스 파일\백준\세그먼트트리</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1417.cpp">
+      <Filter>소스 파일\백준\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1427.cpp">
+      <Filter>소스 파일\백준\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1439.cpp">
+      <Filter>소스 파일\백준\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1463.cpp">
+      <Filter>소스 파일\백준\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1500.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1544.cpp">
+      <Filter>소스 파일\백준\맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1546.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1547.cpp">
+      <Filter>소스 파일\백준\구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1620.cpp">
+      <Filter>소스 파일\백준\맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1647.cpp">
+      <Filter>소스 파일\백준\최소스패닝</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1654.cpp">
+      <Filter>소스 파일\백준\이분탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1655.cpp">
+      <Filter>소스 파일\백준\큐</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
