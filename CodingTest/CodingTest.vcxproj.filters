@@ -2025,10 +2025,16 @@
     <ClCompile Include="백준 10826.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1535.cpp">
+    <ClCompile Include="백준 1940.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 4763.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10868.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1940.cpp">
+    <ClCompile Include="백준 2357.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
