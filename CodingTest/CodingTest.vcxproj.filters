@@ -2121,5 +2121,29 @@
     <ClCompile Include="백준 10844 .cpp">
       <Filter>소스 파일\백준\10000~10999</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1275.cpp">
+      <Filter>소스 파일\백준\1000~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 14427.cpp">
+      <Filter>소스 파일\백준\14000~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 14428.cpp">
+      <Filter>소스 파일\백준\14000~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 14438.cpp">
+      <Filter>소스 파일\백준\14000~14999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10999.cpp">
+      <Filter>소스 파일\백준\10000~10999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2268.cpp">
+      <Filter>소스 파일\백준\2000~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 18436.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16975.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
