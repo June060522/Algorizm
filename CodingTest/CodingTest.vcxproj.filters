@@ -2139,38 +2139,53 @@
     <ClCompile Include="백준 2268.cpp">
       <Filter>소스 파일\백준\2000~2999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 18436.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 5676.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 16975.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 17404.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1149.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1629.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 16953.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12100.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14003.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\14000~14999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 20040.cpp">
-      <Filter>소스 파일\백준</Filter>
+    <ClCompile Include="백준 5676.cpp">
+      <Filter>소스 파일\백준\5000~5999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 9251.cpp">
+      <Filter>소스 파일\백준\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9252.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\9000~9999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16953.cpp">
+      <Filter>소스 파일\백준\16000~16999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16975.cpp">
+      <Filter>소스 파일\백준\16000~16999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 20040.cpp">
+      <Filter>소스 파일\백준\20000~20999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 17404.cpp">
+      <Filter>소스 파일\백준\17000~17999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 18436.cpp">
+      <Filter>소스 파일\백준\18000~18999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28701.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28444.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28691.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 9466.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

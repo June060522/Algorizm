@@ -38,28 +38,5 @@ int main()
 		}
 	}
 
-	cout << LCS[a.length() - 1][b.length() - 1] << '\n';
-
-	int x = a.length() - 1;
-	int y = b.length() - 1;
-	vector<char> v;
-
-	while (LCS[x][y] != 0)
-	{
-		if (LCS[x][y] == LCS[x - 1][y])
-			x--;
-		else if (LCS[x][y] == LCS[x][y - 1])
-			y--;
-		else if ((LCS[x][y] == LCS[x - 1][y - 1] + 1))
-		{
-			v.push_back(a[x]);
-			x--;
-			y--;
-		}
-	}
-
-	for (int i = v.size() - 1; i >= 0; i--)
-	{
-		cout << v[i];
-	}
+	cout << LCS[a.length() - 1][b.length() - 1];
 }
