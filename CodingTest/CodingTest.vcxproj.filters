@@ -118,6 +118,9 @@
     <Filter Include="소스 파일\백준\28000~28999">
       <UniqueIdentifier>{62c1c41d-65d7-4855-a17c-c8e673dc1d70}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준\29000~29999">
+      <UniqueIdentifier>{2b01bb48-4288-406f-94be-51fbe326c74e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="시간복잡도 연습.cpp">
@@ -2184,31 +2187,40 @@
     <ClCompile Include="백준 28691.cpp">
       <Filter>소스 파일\백준\28000~28999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 9466.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="자구 인접행렬을 이용한 그래프 표현-벡터.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
     <ClCompile Include="자구 인접행렬을 이용한 그래프 표현.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
-    <ClCompile Include="백준 10942.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="백준 1806.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2467.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\2000~2999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 16724.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 9466.cpp">
+      <Filter>소스 파일\백준\9000~9999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 10942.cpp">
+      <Filter>소스 파일\백준\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2143.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28927.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 29163.cpp">
+      <Filter>소스 파일\백준\29000~29999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 16724.cpp">
+      <Filter>소스 파일\백준\16000~16999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2003.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2851.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
