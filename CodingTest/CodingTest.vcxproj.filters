@@ -2238,17 +2238,17 @@
     <ClCompile Include="프로그래머스 가장 먼 노트.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2206.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 11869.cpp">
+    <ClCompile Include="백준 1707.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="백준 11871.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11869.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 5565.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
