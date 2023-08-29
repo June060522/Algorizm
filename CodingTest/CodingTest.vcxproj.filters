@@ -2217,9 +2217,6 @@
     <ClCompile Include="백준 16724.cpp">
       <Filter>소스 파일\백준\16000~16999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2003.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="프로그래머스 크레인 인형뽑기 게임.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
@@ -2229,26 +2226,38 @@
     <ClCompile Include="자구 DFS구현.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
-    <ClCompile Include="백준 28295.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 28431.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="프로그래머스 가장 먼 노트.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="백준 1707.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\1000~1999</Filter>
     </ClCompile>
-    <ClCompile Include="백준 11871.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 11869.cpp">
-      <Filter>소스 파일\백준</Filter>
+    <ClCompile Include="백준 2003.cpp">
+      <Filter>소스 파일\백준\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5565.cpp">
-      <Filter>소스 파일\백준</Filter>
+      <Filter>소스 파일\백준\5000~5999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12082.cpp">
+      <Filter>소스 파일\백준\12000~12999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12083.cpp">
+      <Filter>소스 파일\백준\12000~12999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12893.cpp">
+      <Filter>소스 파일\백준\12000~12999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11869.cpp">
+      <Filter>소스 파일\백준\11000~11999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11871.cpp">
+      <Filter>소스 파일\백준\11000~11999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28431.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28295.cpp">
+      <Filter>소스 파일\백준\28000~28999</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

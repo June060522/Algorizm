@@ -10,7 +10,7 @@ protected:
 	int size;
 	char vertices[MAX_VTXS];
 	int adj[MAX_VTXS][MAX_VTXS];
-	bool visited[MAX_VTXS];
+	int visited[MAX_VTXS];
 public:
 	AdjMatGraph() { reset(); }
 
@@ -70,7 +70,7 @@ public:
 	{
 		for (int i = 0; i < size; i++)
 		{
-			visited[i] = false;
+			visited[i] = -1;
 		}
 	}
 
@@ -82,29 +82,32 @@ public:
 	void BFS(int start)
 	{
 		queue<int> q;
-		visited[start] = true;
+		visited[start] = 0;
 		q.push(start);
 
 		while (!q.empty())
 		{
 			int x = q.front();
 			q.pop();
-			cout << x << " ";
+			cout << getVertex(x) << " ";
 
 			for (int i = 0; i < size; i++)
 			{
-				if (isLinked(x, i) && !visited[i])
+				if (isLinked(x, i) && visited[i] == -1)
 				{
-					visited[i] = true;
+					visited[i] =  visited[x] + 1;
 					q.push(i);
 				}
 			}
 		}
+		cout << '\n';
+		for (int i = 0; i < size; i++)
+			cout << visited[i] << " ";
 	}
 };
 
-
 AdjMatGraph g;
+
 int main()
 {
 	int n, m, temp1, temp2;

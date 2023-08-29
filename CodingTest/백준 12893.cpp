@@ -52,33 +52,25 @@ int main()
 	cin.tie(nullptr);
 	ios::sync_with_stdio(false);
 
-	int repeat = 0;
-	cin >> repeat;
-	for (size_t i = 0; i < repeat; i++)
+
+	cin >> n >> m;
+	int a, b;
+	for (size_t j = 0; j < m; j++)
 	{
-		fill(isVisited, isVisited + 20001, 0);
-		for (size_t j = 0; j < 20001; j++)
-			node[j].clear();
-
-		cin >> n >> m;
-		int a, b;
-		for (size_t j = 0; j < m; j++)
-		{
-			cin >> a >> b;
-			node[a].push_back(b);
-			node[b].push_back(a);
-		}
-
-		for (size_t j = 1; j <= n; j++)
-		{
-			if (isVisited[j] == 0)
-				Bfs(j);
-		}
-
-		if (CheckGraph())
-			cout << "YES" << '\n';
-		else
-			cout << "NO" << '\n';
-
+		cin >> a >> b;
+		node[a].push_back(b);
+		node[b].push_back(a);
 	}
+
+	for (size_t j = 1; j <= n; j++)
+	{
+		if (isVisited[j] == 0)
+			Bfs(j);
+	}
+
+	if (CheckGraph())
+		cout << "1";
+	else
+		cout << "0";
+
 }

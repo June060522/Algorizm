@@ -1,11 +1,12 @@
 #include<iostream>
 #include <queue>
+#include <unordered_map>
 
 using namespace std;
 
-vector<int> node[20001];
-int isVisited[20001];
-int n, m;
+vector<int> node[21];
+int isVisited[21];
+int n;
 
 void Bfs(int start)
 {
@@ -54,31 +55,38 @@ int main()
 
 	int repeat = 0;
 	cin >> repeat;
-	for (size_t i = 0; i < repeat; i++)
+	for (size_t i = 1; i <= repeat; i++)
 	{
-		fill(isVisited, isVisited + 20001, 0);
-		for (size_t j = 0; j < 20001; j++)
+		unordered_map<string, int> um;
+		fill(isVisited, isVisited + 21, 0);
+		for (size_t j = 0; j < 21; j++)
 			node[j].clear();
 
-		cin >> n >> m;
-		int a, b;
-		for (size_t j = 0; j < m; j++)
+		cin >> n;
+		string c, d;
+		int idx = 1;
+		for (size_t j = 0; j < n; j++)
 		{
-			cin >> a >> b;
-			node[a].push_back(b);
-			node[b].push_back(a);
+			cin >> c >> d;
+			if (um.find(c) == um.end())
+				um[c] = idx++;
+			if (um.find(d) == um.end())
+				um[d] = idx++;
+			node[um[c]].push_back(um[d]);
+			node[um[d]].push_back(um[c]);
 		}
-
+		n = idx;
 		for (size_t j = 1; j <= n; j++)
 		{
 			if (isVisited[j] == 0)
 				Bfs(j);
 		}
 
+		cout << "Case #" << i << ": ";
 		if (CheckGraph())
-			cout << "YES" << '\n';
+			cout << "Yes" << '\n';
 		else
-			cout << "NO" << '\n';
+			cout << "No" << '\n';
 
 	}
 }
