@@ -2260,7 +2260,10 @@
       <Filter>소스 파일\백준\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 게임 맵 최단거리.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28490.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
