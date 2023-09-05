@@ -4,77 +4,60 @@
 using namespace std;
 
 int zone[11][11];
-int answer = 0;
-int zoneSize = 0;//검은색 흰색 나누어서
+int answerBlack = 0;
+int answerWhite = 0;
+int zoneSize = 0;
+pair<int, int> information[20];
 
-bool CheckBishop(int x, int y)
+bool CheckInfo(int x, int y, int cnt)
 {
-	for (size_t i = 1; i < zoneSize; i++)
+	for (size_t i = 0; i < cnt; i++)
 	{
-		if (y - i > 0 && x - i > 0 && zone[x - i][y - i] == 2)
-			return false;
-
-		if (y + i <= zoneSize && x - i > 0 && zone[x - i][y + i] == 2)
-			return false;
-
-		if (y - i > 0 && x + i <= zoneSize && zone[x + i][y - i] == 2)
-			return false;
-
-		if (y + i <= zoneSize && x + i <= zoneSize && zone[x + i][y + i] == 2)
+		if (abs(x - information[i].first) == abs(y - information[i].second))
 			return false;
 	}
-
 	return true;
 }
 
-void BackTraking(int x, int y, int cnt)
+void BackTraking(int cnt, int num)
 {
-	bool isFisrt = false;
-	for (size_t i = 1; i <= zoneSize; i++)
+	for (size_t i = num; i < zoneSize * zoneSize; i += 2)
 	{
-		for (size_t j = 1; j <= zoneSize; j++)
+		int x = i / zoneSize;
+		int y = i % zoneSize;
+		if (zoneSize % 2 == 0)
 		{
-			if (!isFisrt)
+			if (i % 2 == 0)
+				y = y + (x % 2);
+			else
+				y = y - (x % 2);
+		}
+
+		if (zone[x][y] == 1)
+		{
+			if (CheckInfo(x, y, cnt))
 			{
-				isFisrt = true;
-				i = x;
-				j = y;
-			}
+				information[cnt++] = { x,y };
+				if(i % 2 == 0)
+					answerBlack = max(answerBlack, cnt);
+				else
+					answerWhite = max(answerWhite, cnt);
+				BackTraking(cnt, i);
 
-			if (zone[i][j] == 0 || zone[i][j] == 2)
-				continue;
-
-			if (CheckBishop(i,j))
-			{
-				zone[i][j] = 2;
-				cnt++;
-				answer = max(cnt, answer);
-
-				BackTraking(i, j, cnt);
-
-				zone[i][j] = 1;
 				cnt--;
 			}
-
 		}
 	}
 }
 
 int main()
 {
-	cin.tie(nullptr);
-	cout.tie(nullptr);
-	ios::sync_with_stdio(false);
-
 	cin >> zoneSize;
-	for (size_t i = 1; i <= zoneSize; i++)
-	{
-		for (size_t j = 1; j <= zoneSize; j++)
-		{
+	for (size_t i = 0; i < zoneSize; i++)
+		for (size_t j = 0; j < zoneSize; j++)
 			cin >> zone[i][j];
-		}
-	}
 
-	BackTraking(1, 1, 0);
-	cout << answer;
+	BackTraking(0,0);
+	BackTraking(0,1);
+	cout << answerBlack + answerWhite;
 }

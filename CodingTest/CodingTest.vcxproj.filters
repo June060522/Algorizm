@@ -2263,9 +2263,12 @@
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="백준 1799.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 28490.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 단어변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
