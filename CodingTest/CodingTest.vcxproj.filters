@@ -2265,23 +2265,26 @@
     <ClCompile Include="백준 28490.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="프로그래머스 단어변환.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="자료구조 특정거리 도시 찾기.cpp">
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
-    <ClCompile Include="백준 12847.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 11441.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 29766.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 2435.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11441.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12847.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="백준 26772.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 단어변환.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
