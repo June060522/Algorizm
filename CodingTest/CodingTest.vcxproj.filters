@@ -123,12 +123,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="시간복잡도 연습.cpp">
-      <Filter>소스 파일\Test</Filter>
-    </ClCompile>
-    <ClCompile Include="이진탐색.cpp">
-      <Filter>소스 파일\Test</Filter>
-    </ClCompile>
     <ClCompile Include="코드업 1028.cpp">
       <Filter>소스 파일\코드업</Filter>
     </ClCompile>
@@ -279,9 +273,6 @@
     <ClCompile Include="백준 2504.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
-      <Filter>소스 파일\Test</Filter>
-    </ClCompile>
     <ClCompile Include="프로그래머스 두개 뽑아서 더하기.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
@@ -372,7 +363,7 @@
     <ClCompile Include="백준 1622.cpp">
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
-    <ClCompile Include="백준 13549.cpp">
+    <ClCompile Include="test.cpp">
       <Filter>소스 파일\Test</Filter>
     </ClCompile>
     <ClCompile Include="백준 12851.cpp">
@@ -2284,6 +2275,12 @@
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 단어변환.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 타겟넘버.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 네트워크.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
