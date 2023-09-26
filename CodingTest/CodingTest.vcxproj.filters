@@ -34,92 +34,107 @@
     <Filter Include="소스 파일\프로그래머스">
       <UniqueIdentifier>{886014b1-c051-43b7-a255-2274e04f52d3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\1000~1999">
-      <UniqueIdentifier>{bf4f7e4c-5b3a-4be4-9d6f-127ca0354425}</UniqueIdentifier>
+    <Filter Include="소스 파일\백준\10000~19999">
+      <UniqueIdentifier>{c223023f-0ce8-47a2-aef2-87ace7abcb69}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\2000~2999">
-      <UniqueIdentifier>{c4783a38-ec89-4642-9625-bcf0521099d0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\3000~3999">
-      <UniqueIdentifier>{be345724-edf0-4c5f-b730-ce9d37c09634}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\4000~4999">
-      <UniqueIdentifier>{5bd84c9d-7e75-4dd0-a782-4c3e2705e2c3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\5000~5999">
-      <UniqueIdentifier>{dfa91bd6-6e6a-422c-8c05-4a654463c3d2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\6000~6999">
-      <UniqueIdentifier>{293e8ca2-25df-4a6a-91a6-ebafe50d2c1f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\7000~7999">
-      <UniqueIdentifier>{5c2c66dd-fd81-46d6-b4bd-54b3024b69b4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\8000~8999">
-      <UniqueIdentifier>{7cfc283c-0333-45f7-a532-f34d813b397d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\9000~9999">
-      <UniqueIdentifier>{13ed8c70-5f91-4d35-87d6-df6b43e394ee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\10000~10999">
+    <Filter Include="소스 파일\백준\10000~19999\10000~10999">
       <UniqueIdentifier>{e496d6ce-77e0-4695-9f32-a8e3e76d91cb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\11000~11999">
+    <Filter Include="소스 파일\백준\10000~19999\11000~11999">
       <UniqueIdentifier>{22d6fa2c-c87d-400b-b8b4-beed7f52deb9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\12000~12999">
+    <Filter Include="소스 파일\백준\10000~19999\12000~12999">
       <UniqueIdentifier>{659ce068-e92d-4148-84bf-5f3d0caf658f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\13000~13999">
+    <Filter Include="소스 파일\백준\10000~19999\13000~13999">
       <UniqueIdentifier>{ac09b465-7126-43a9-8e6b-912c4178e841}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\14000~14999">
+    <Filter Include="소스 파일\백준\10000~19999\14000~14999">
       <UniqueIdentifier>{9567ba0b-9133-4ab4-96aa-caaa60b7fadd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\15000~15999">
+    <Filter Include="소스 파일\백준\10000~19999\15000~15999">
       <UniqueIdentifier>{8c4c2d63-4562-43fb-806e-641c40477fb0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\16000~16999">
+    <Filter Include="소스 파일\백준\10000~19999\16000~16999">
       <UniqueIdentifier>{92628df4-10d6-45f7-9e9e-e4090219bb7b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\17000~17999">
+    <Filter Include="소스 파일\백준\10000~19999\17000~17999">
       <UniqueIdentifier>{0820a674-18c3-4c95-b836-c8dcab1dcf97}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\18000~18999">
+    <Filter Include="소스 파일\백준\10000~19999\18000~18999">
       <UniqueIdentifier>{c98d28f6-2c9e-4df8-b598-4613930a58a6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\19000~19999">
+    <Filter Include="소스 파일\백준\10000~19999\19000~19999">
       <UniqueIdentifier>{2abc3409-f34d-465a-96f8-b3e8d8b48e70}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\20000~20999">
+    <Filter Include="소스 파일\백준\20000~29999">
+      <UniqueIdentifier>{d5d14dd8-3da5-4ba5-b6e7-51b06118ad1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\20000~29999\20000~20999">
       <UniqueIdentifier>{fe77af76-943b-4bd6-820b-3047fd99f545}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\21000~21999">
+    <Filter Include="소스 파일\백준\20000~29999\21000~21999">
       <UniqueIdentifier>{76262d38-753b-41a3-a5b4-8e4daf1b0810}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\22000~22999">
+    <Filter Include="소스 파일\백준\20000~29999\22000~22999">
       <UniqueIdentifier>{96561329-287b-4ba4-a02d-7098ba8a8aa1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\23000~23999">
+    <Filter Include="소스 파일\백준\20000~29999\23000~23999">
       <UniqueIdentifier>{24fa71a2-df0b-497a-b423-d4824ae32d83}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\24000~24999">
+    <Filter Include="소스 파일\백준\20000~29999\24000~24999">
       <UniqueIdentifier>{49b5350e-5069-4dc4-a5ad-e9671f27a086}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\25000~25999">
+    <Filter Include="소스 파일\백준\20000~29999\25000~25999">
       <UniqueIdentifier>{6d4bebf4-e142-4839-b125-319d5b9a5af2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\26000~26999">
+    <Filter Include="소스 파일\백준\20000~29999\26000~26999">
       <UniqueIdentifier>{456054a2-5d7d-4bd7-86f7-f43d5687e7f8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\27000~27999">
+    <Filter Include="소스 파일\백준\20000~29999\27000~27999">
       <UniqueIdentifier>{616e2755-c79a-49ce-aa5a-50b5cda56a9f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\28000~28999">
+    <Filter Include="소스 파일\백준\20000~29999\28000~28999">
       <UniqueIdentifier>{62c1c41d-65d7-4855-a17c-c8e673dc1d70}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\29000~29999">
+    <Filter Include="소스 파일\백준\20000~29999\29000~29999">
       <UniqueIdentifier>{2b01bb48-4288-406f-94be-51fbe326c74e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\30000~39999">
+      <UniqueIdentifier>{d5f595e6-aabd-4de3-bc44-030182b82320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\30000~39999\30000~30999">
+      <UniqueIdentifier>{0e933aec-5c1f-46f3-b533-4bc35445eb4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999">
+      <UniqueIdentifier>{83eb2ca3-394f-4d31-9a0a-3f7ca39a9e8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\1000~1999">
+      <UniqueIdentifier>{bf4f7e4c-5b3a-4be4-9d6f-127ca0354425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\2000~2999">
+      <UniqueIdentifier>{c4783a38-ec89-4642-9625-bcf0521099d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\3000~3999">
+      <UniqueIdentifier>{be345724-edf0-4c5f-b730-ce9d37c09634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\4000~4999">
+      <UniqueIdentifier>{5bd84c9d-7e75-4dd0-a782-4c3e2705e2c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\5000~5999">
+      <UniqueIdentifier>{dfa91bd6-6e6a-422c-8c05-4a654463c3d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\6000~6999">
+      <UniqueIdentifier>{293e8ca2-25df-4a6a-91a6-ebafe50d2c1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\7000~7999">
+      <UniqueIdentifier>{5c2c66dd-fd81-46d6-b4bd-54b3024b69b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\8000~8999">
+      <UniqueIdentifier>{7cfc283c-0333-45f7-a532-f34d813b397d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\0~9999\9000~9999">
+      <UniqueIdentifier>{13ed8c70-5f91-4d35-87d6-df6b43e394ee}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -370,1810 +385,1810 @@
       <Filter>소스 파일\못푼문제</Filter>
     </ClCompile>
     <ClCompile Include="백준 1000.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1001.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1003.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1008.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1009.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1012.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1015.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1018.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1021.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1040%28stack.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1040%28string.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1040list.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1065.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1072.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1075.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1083.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1085.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1103.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1110.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1152.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1157.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1158 연결리스트.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1158.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1174.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1181.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1182.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1193.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1197.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1202.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1225.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1237.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1252.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1259.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1260.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1264.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1266.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1269.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1292.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1300.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1302.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1309.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1312.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1316 - 2.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1316.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1330.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1371.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1388.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1414.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1417.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1427.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1439.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1463.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1500.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1544.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1546.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1547.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1620.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1647.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1654.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1655.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1697.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1715.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1717.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1735.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1743.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1753.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1764.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1774.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1809.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1822.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1874.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1912.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1914.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1916.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1918.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1920.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1922.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1926.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1927.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1929.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1934.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1935.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1940.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1965.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1966.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1978.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2014.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2042.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2075.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2083.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2108.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2133.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2161.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2164.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2166.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2178.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2193.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2217.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2225.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2231.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2239.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2252.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2292.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2293.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2303.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2357.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2372.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2377.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2393.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2420.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2438.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2439.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2440.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2442.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2443.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2444.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2445.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2446.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2447.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2475.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2480.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2522.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2523.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2525.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2530.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2557.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2558.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2562.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2563.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2566.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2576.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2577.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2579.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2587.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2588.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2606.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2609.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2667.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2669.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2675.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2693.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2720.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2738.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2739.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2741.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2742.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2743.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2744.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2745.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2747.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2748.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2750.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2751.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2752.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2753.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2754.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2775.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2776.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2789.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2792.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2798.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2805.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2839.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2845.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2857.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2864.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2869.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2884.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2887.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2902.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2903.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2908.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2920.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2941.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2992.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3003.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3017.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3046.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3052.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3733.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3765.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3803.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 3986.cpp">
-      <Filter>소스 파일\백준\3000~3999</Filter>
+      <Filter>소스 파일\백준\0~9999\3000~3999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4101.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4149.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4153.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4195.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4246.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4299.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4344.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4358.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4386.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4470.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4589.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4659.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4763.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4949.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4963.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 4999.cpp">
-      <Filter>소스 파일\백준\4000~4999</Filter>
+      <Filter>소스 파일\백준\0~9999\4000~4999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5004.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5073.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5086.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5300.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5337.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5338.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5339.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5341.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5357.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5358.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5397.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5430.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5524.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5532.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5543.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5554.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5568.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5575.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5585.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5596.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5597.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5622.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5717.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5800.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5939.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5988.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6198.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6497.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6749.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6763.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6778.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6825.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6840.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6841.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6887.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6888.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 6916.cpp">
-      <Filter>소스 파일\백준\6000~6999</Filter>
+      <Filter>소스 파일\백준\0~9999\6000~6999</Filter>
     </ClCompile>
     <ClCompile Include="백준 7595.cpp">
-      <Filter>소스 파일\백준\7000~7999</Filter>
+      <Filter>소스 파일\백준\0~9999\7000~7999</Filter>
     </ClCompile>
     <ClCompile Include="백준 7785.cpp">
-      <Filter>소스 파일\백준\7000~7999</Filter>
+      <Filter>소스 파일\백준\0~9999\7000~7999</Filter>
     </ClCompile>
     <ClCompile Include="백준 7891.cpp">
-      <Filter>소스 파일\백준\7000~7999</Filter>
+      <Filter>소스 파일\백준\0~9999\7000~7999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8370.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8393.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8545.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8549.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8558.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8674.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8723.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8760.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8871.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 8958.cpp">
-      <Filter>소스 파일\백준\8000~8999</Filter>
+      <Filter>소스 파일\백준\0~9999\8000~8999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9012.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9086.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9095.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9316.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9375.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9461.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9498.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9506.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9653.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9654.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9655.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9658.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9660.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9661.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9663.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9711.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9772.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9935.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10026.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10039.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10101.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10156.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10171.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10172.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10188.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10250.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10423.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10430.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10480.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10546.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10610.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10699.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10710.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10718.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10757.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10768.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10773.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10797.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10798.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10799.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10807.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10808.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10809.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10810.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10811.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10812.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10813.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10814.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10815.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10816.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10817.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10818.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10826.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10828.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10845.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10866.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10867.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10868.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10870.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10871.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10872.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10950.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10951.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10952.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10973.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10974.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10986.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10988.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10989.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10990.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10991.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10992.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10995.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10996.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10998.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11004.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11021.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11022.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11047.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11050.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11052.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11053.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11055.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11257.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11279.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11283.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11286.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11365.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11382.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11403.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11404.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11478.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11505.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11549.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11645.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11650.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11651.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11652.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11654.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11657.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11659.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11720.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11722.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11724.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11725.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11726.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11727.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11729.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11781.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11866.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11868.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11943.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11945.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11948.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12738.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12852.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12865.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12873.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13199.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13241.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13305.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13335.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13414.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13580.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13597.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13752.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13866.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 13985.cpp">
-      <Filter>소스 파일\백준\13000~13999</Filter>
+      <Filter>소스 파일\백준\10000~19999\13000~13999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14002.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14215.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14235.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14377.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14402.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14425.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14470.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14489.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14495.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14581.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14645.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14652.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14681.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14713.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14916.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15000.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15059.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15232.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15353.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15439.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15552.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15577.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15596.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15624.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15649.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15650.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15651.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15652.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15654.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15655.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15656.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15657.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15663.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15664.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15665.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15666.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15680.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15700.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15726.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15727.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15733.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15873.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15894.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15903.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15962.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15963.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15964.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 15988.cpp">
-      <Filter>소스 파일\백준\15000~15999</Filter>
+      <Filter>소스 파일\백준\10000~19999\15000~15999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16099.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16120.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16165.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16170.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16173.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16174.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16194.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16199.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16204.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16389 .cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16394.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16398 .cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16430.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16486.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16600.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17175.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17216.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17219.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17256.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17295.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17298.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17352.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17356.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17362.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17388.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17472.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17827.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17863.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18096.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18108.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18115.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18258 - vector.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18258.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18301.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18352.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18408.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18409.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18411.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 19602.cpp">
-      <Filter>소스 파일\백준\19000~19999</Filter>
+      <Filter>소스 파일\백준\10000~19999\19000~19999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20254.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20352.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20353.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20492.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20499.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20833.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20920.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20976.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 21300.cpp">
-      <Filter>소스 파일\백준\21000~21999</Filter>
+      <Filter>소스 파일\백준\20000~29999\21000~21999</Filter>
     </ClCompile>
     <ClCompile Include="백준 21598.cpp">
-      <Filter>소스 파일\백준\21000~21999</Filter>
+      <Filter>소스 파일\백준\20000~29999\21000~21999</Filter>
     </ClCompile>
     <ClCompile Include="백준 21942.cpp">
-      <Filter>소스 파일\백준\21000~21999</Filter>
+      <Filter>소스 파일\백준\20000~29999\21000~21999</Filter>
     </ClCompile>
     <ClCompile Include="백준 22501.cpp">
-      <Filter>소스 파일\백준\22000~22999</Filter>
+      <Filter>소스 파일\백준\20000~29999\22000~22999</Filter>
     </ClCompile>
     <ClCompile Include="백준 23234.cpp">
-      <Filter>소스 파일\백준\23000~23999</Filter>
+      <Filter>소스 파일\백준\20000~29999\23000~23999</Filter>
     </ClCompile>
     <ClCompile Include="백준 23235.cpp">
-      <Filter>소스 파일\백준\23000~23999</Filter>
+      <Filter>소스 파일\백준\20000~29999\23000~23999</Filter>
     </ClCompile>
     <ClCompile Include="백준 23757.cpp">
-      <Filter>소스 파일\백준\23000~23999</Filter>
+      <Filter>소스 파일\백준\20000~29999\23000~23999</Filter>
     </ClCompile>
     <ClCompile Include="백준 23795.cpp">
-      <Filter>소스 파일\백준\23000~23999</Filter>
+      <Filter>소스 파일\백준\20000~29999\23000~23999</Filter>
     </ClCompile>
     <ClCompile Include="백준 23825.cpp">
-      <Filter>소스 파일\백준\23000~23999</Filter>
+      <Filter>소스 파일\백준\20000~29999\23000~23999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24078.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24079.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24082.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24086.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24087.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24262.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24263.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24264.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24265.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24266.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24267.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24309.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24365.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24444.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24445.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24446.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24479.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24480.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24481.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24482.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24483.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24484.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24568.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24723.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24763.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24803.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 24883.cpp">
-      <Filter>소스 파일\백준\24000~24999</Filter>
+      <Filter>소스 파일\백준\20000~29999\24000~24999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25083.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25191.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25192.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25206.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25238.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25304.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25305.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25311.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25325.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25372.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25377.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25381.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25413.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25494.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25591.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25600.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25625.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25628.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25640.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25703.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25777.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25784.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25828.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25858.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 25904.cpp">
-      <Filter>소스 파일\백준\25000~25999</Filter>
+      <Filter>소스 파일\백준\20000~29999\25000~25999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26068.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26082.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26209.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26307.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26489.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26495.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26531.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26545.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26546.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26549.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26561.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26574.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26575.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26711.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26742.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26766.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26767.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 26768.cpp">
-      <Filter>소스 파일\백준\26000~26999</Filter>
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27009.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27110.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27213.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27219.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27239.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27262.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27294.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27310.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27323.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27324.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27327.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27328.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27331.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27389.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27433.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27541.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27736.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27855.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27866.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27899.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27918.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27930.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27959.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 27964.cpp">
-      <Filter>소스 파일\백준\27000~27999</Filter>
+      <Filter>소스 파일\백준\20000~29999\27000~27999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28014.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28113.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28278.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28352.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9657 .cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10844 .cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1275.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14427.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14428.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14438.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10999.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2268.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1149.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 1629.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12100.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 14003.cpp">
-      <Filter>소스 파일\백준\14000~14999</Filter>
+      <Filter>소스 파일\백준\10000~19999\14000~14999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5676.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9251.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9252.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16953.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16975.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="백준 20040.cpp">
-      <Filter>소스 파일\백준\20000~20999</Filter>
+      <Filter>소스 파일\백준\20000~29999\20000~20999</Filter>
     </ClCompile>
     <ClCompile Include="백준 17404.cpp">
-      <Filter>소스 파일\백준\17000~17999</Filter>
+      <Filter>소스 파일\백준\10000~19999\17000~17999</Filter>
     </ClCompile>
     <ClCompile Include="백준 18436.cpp">
-      <Filter>소스 파일\백준\18000~18999</Filter>
+      <Filter>소스 파일\백준\10000~19999\18000~18999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28701.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28444.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28691.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="자구 인접행렬을 이용한 그래프 표현-벡터.cpp">
       <Filter>소스 파일\Class</Filter>
@@ -2182,28 +2197,28 @@
       <Filter>소스 파일\Class</Filter>
     </ClCompile>
     <ClCompile Include="백준 1806.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2467.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 9466.cpp">
-      <Filter>소스 파일\백준\9000~9999</Filter>
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 10942.cpp">
-      <Filter>소스 파일\백준\10000~10999</Filter>
+      <Filter>소스 파일\백준\10000~19999\10000~10999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2143.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28927.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 29163.cpp">
-      <Filter>소스 파일\백준\29000~29999</Filter>
+      <Filter>소스 파일\백준\20000~29999\29000~29999</Filter>
     </ClCompile>
     <ClCompile Include="백준 16724.cpp">
-      <Filter>소스 파일\백준\16000~16999</Filter>
+      <Filter>소스 파일\백준\10000~19999\16000~16999</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 크레인 인형뽑기 게임.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
@@ -2218,61 +2233,40 @@
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="백준 1707.cpp">
-      <Filter>소스 파일\백준\1000~1999</Filter>
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
     <ClCompile Include="백준 2003.cpp">
-      <Filter>소스 파일\백준\2000~2999</Filter>
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
     </ClCompile>
     <ClCompile Include="백준 5565.cpp">
-      <Filter>소스 파일\백준\5000~5999</Filter>
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12082.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12083.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 12893.cpp">
-      <Filter>소스 파일\백준\12000~12999</Filter>
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11869.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 11871.cpp">
-      <Filter>소스 파일\백준\11000~11999</Filter>
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28431.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="백준 28295.cpp">
-      <Filter>소스 파일\백준\28000~28999</Filter>
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 게임 맵 최단거리.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1799.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 28490.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
     <ClCompile Include="자료구조 특정거리 도시 찾기.cpp">
       <Filter>소스 파일\Class</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 29766.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2435.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 11441.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 12847.cpp">
-      <Filter>소스 파일\백준</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 26772.cpp">
-      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 단어변환.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
@@ -2283,16 +2277,55 @@
     <ClCompile Include="프로그래머스 네트워크.cpp">
       <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
-    <ClCompile Include="백준 29699.cpp">
-      <Filter>소스 파일\백준</Filter>
+    <ClCompile Include="프로그래머스 여행경로.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="백준 30087.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\30000~39999\30000~30999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 29766.cpp">
+      <Filter>소스 파일\백준\20000~29999\29000~29999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 29699.cpp">
+      <Filter>소스 파일\백준\20000~29999\29000~29999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 28490.cpp">
+      <Filter>소스 파일\백준\20000~29999\28000~28999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11170.cpp">
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11655.cpp">
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11441.cpp">
+      <Filter>소스 파일\백준\10000~19999\11000~11999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 26772.cpp">
+      <Filter>소스 파일\백준\20000~29999\26000~26999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12847.cpp">
+      <Filter>소스 파일\백준\10000~19999\12000~12999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 9372.cpp">
+      <Filter>소스 파일\백준\0~9999\9000~9999</Filter>
     </ClCompile>
     <ClCompile Include="백준 7576.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준\0~9999\7000~7999</Filter>
     </ClCompile>
-    <ClCompile Include="프로그래머스 여행경로.cpp">
+    <ClCompile Include="백준 1799.cpp">
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2435.cpp">
+      <Filter>소스 파일\백준\0~9999\2000~2999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5635.cpp">
+      <Filter>소스 파일\백준\0~9999\5000~5999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1991.cpp">
+      <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 9934.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
