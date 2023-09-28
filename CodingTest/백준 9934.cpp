@@ -11,11 +11,12 @@ struct tree
 	int right;
 };
 
+tree t[10][10];
 vector<int> answer[11];
 
-void setTree()
+void setTree(int num, int deep)
 {
-
+	//if(t[deep])
 }
 
 int main()
@@ -29,5 +30,15 @@ int main()
 	for (int i = 0; i < repeat; i++)
 	{
 		cin >> input;
+		setTree(input, 1);
+	}
+
+	for (int i = 0; i < n; i++)
+	{
+		for (size_t j = 0; j < answer[i].size(); j++)
+		{
+			cout << answer[i][j] << " ";
+		}
+		cout << '\n';
 	}
 }
