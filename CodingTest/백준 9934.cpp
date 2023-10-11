@@ -4,19 +4,17 @@
 using namespace std;
 
 int n;
-
-struct tree
-{
-	int left;
-	int right;
-};
-
-tree t[10][10];
+int arr[100000];
 vector<int> answer[11];
 
-void setTree(int num, int deep)
+void setTree(int start, int end, int deep)
 {
-	//if(t[deep])
+	if (deep == n)
+		return;
+	int mid = (start + end) / 2;
+	answer[deep].push_back(arr[mid]);
+	setTree(start, mid - 1, deep + 1);
+	setTree(mid + 1, end, deep + 1);
 }
 
 int main()
@@ -27,18 +25,17 @@ int main()
 		repeat += repeat + 1;
 
 	int input;
-	for (int i = 0; i < repeat; i++)
+	for (int i = 1; i <= repeat; i++)
 	{
-		cin >> input;
-		setTree(input, 1);
+		cin >> arr[i];
 	}
+	setTree(1, repeat, 0);
 
 	for (int i = 0; i < n; i++)
 	{
-		for (size_t j = 0; j < answer[i].size(); j++)
-		{
+		for (int j = 0; j < answer[i].size(); j++)
 			cout << answer[i][j] << " ";
-		}
+
 		cout << '\n';
 	}
 }
