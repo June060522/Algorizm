@@ -31,9 +31,6 @@
     <Filter Include="소스 파일\못푼문제">
       <UniqueIdentifier>{2bb9cb1a-f610-459e-b9e9-e4b595b027e7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\프로그래머스">
-      <UniqueIdentifier>{886014b1-c051-43b7-a255-2274e04f52d3}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\백준\10000~19999">
       <UniqueIdentifier>{c223023f-0ce8-47a2-aef2-87ace7abcb69}</UniqueIdentifier>
     </Filter>
@@ -100,12 +97,6 @@
     <Filter Include="소스 파일\백준\20000~29999\29000~29999">
       <UniqueIdentifier>{2b01bb48-4288-406f-94be-51fbe326c74e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\백준\30000~39999">
-      <UniqueIdentifier>{d5f595e6-aabd-4de3-bc44-030182b82320}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\백준\30000~39999\30000~30999">
-      <UniqueIdentifier>{0e933aec-5c1f-46f3-b533-4bc35445eb4e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\백준\0~9999">
       <UniqueIdentifier>{83eb2ca3-394f-4d31-9a0a-3f7ca39a9e8d}</UniqueIdentifier>
     </Filter>
@@ -135,6 +126,15 @@
     </Filter>
     <Filter Include="소스 파일\백준\0~9999\9000~9999">
       <UniqueIdentifier>{13ed8c70-5f91-4d35-87d6-df6b43e394ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\30000~39999">
+      <UniqueIdentifier>{d5f595e6-aabd-4de3-bc44-030182b82320}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\30000~39999\30000~30999">
+      <UniqueIdentifier>{0e933aec-5c1f-46f3-b533-4bc35445eb4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{886014b1-c051-43b7-a255-2274e04f52d3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -2325,13 +2325,28 @@
     <ClCompile Include="백준 1991.cpp">
       <Filter>소스 파일\백준\0~9999\1000~1999</Filter>
     </ClCompile>
+    <ClCompile Include="백준 1920-2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 5639.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
     <ClCompile Include="백준 9934.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 11725-2.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스 길찾기 게임.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
+    </ClCompile>
+    <ClCompile Include="NYPC메이플스토리 새로운 직업 고르기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1920-2.cpp">
+    <ClCompile Include="프로그래머스 의상.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스 베스트앨범.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
