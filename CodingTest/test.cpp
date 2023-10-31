@@ -2,15 +2,28 @@
 
 using namespace std;
 
+bool test()
+{
+	bool a = false;
+	if (a)
+		return false;
+
+	if (rand() % 2 == 0)
+		a = true;
+	else
+		a = false;
+}
+
 int main()
 {
-	int* p = new int;
-	int* pA = new int[10];
-	int* pA2 = new int[10] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-
-	*p = 10;
-
-	delete p;
-	delete[] pA;
-	delete[] pA2;
+	srand((unsigned int)time(NULL));
+	int a = 0, b = 0;
+	for (int i = 0; i < 10000000; i++)
+	{
+		if (test())
+			a++;
+		else
+			b++;
+	}
+	cout << a << endl << b;
 }
