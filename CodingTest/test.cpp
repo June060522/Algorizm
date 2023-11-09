@@ -1,22 +1,11 @@
 #include <iostream>
-#include <deque>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
 int main()
 {
-	int x;
-	cin >> x;
-	for (int i = 0; i < x; i++)
-	{
-		for (int j = 0; j < x; j++)
-		{
-			//수행
-		}
-	}
-
-	for (int i = 0; i < x; i++)
-	{
-		// 수행
-	}
+	vector<int> v = { 9,5,1,7,3,2,10,99,0,50 };
+	
 }
