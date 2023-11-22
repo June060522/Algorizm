@@ -2355,5 +2355,14 @@
     <ClCompile Include="프로그래머스 전화번호목록.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test1.cpp">
+      <Filter>소스 파일\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.cpp">
+      <Filter>소스 파일\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

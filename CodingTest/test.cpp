@@ -1,16 +1,39 @@
-#include <iostream>
 #include <vector>
-#include <algorithm>
+#include <string>
+#include <unordered_set>
+#include <unordered_map>
 
 using namespace std;
 
-int main()
+vector<int> solution(vector<string> id_list, vector<string> report, int k)
 {
-	int findVal = 3;
-	int arr[6] = { 0,1,2,3,4,5 };
-	vector<int> vt = { 0,1,2,3,4,5 };
-	cout << lower_bound(arr,arr + 6, findVal) - arr << endl;
-	cout << lower_bound(vt.begin(), vt.end(), findVal) - vt.begin() << endl;
-	cout << upper_bound(arr,arr + 6, findVal) - arr << endl;
-	cout << upper_bound(vt.begin(), vt.end(), findVal) - vt.begin() << endl;
+	unordered_map<string, unordered_set<string>> um;
+	vector<pair<string, int>> p;
+	vector <int> answer;
+	for (size_t i = 0; i < id_list.size(); i++)
+		p.push_back({ id_list[i], 0 });
+
+	for (size_t i = 0; i < report.size(); i++)
+	{
+		string to = report[i].substr(0, report[i].find(' '));
+		string from = report[i].substr(report[i].find(' ') + 1);
+		um[from].insert(to);
+	}
+
+	for (auto a : um)
+	{
+		if (a.second.size() >= k)
+		{
+			for (int i = 0; i < p.size(); i++)
+			{
+				if (a.second.find(p[i].first) != a.second.end())
+				{
+					p[i].second++;
+				}
+			}
+		}
+	}
+	for (auto i : p)
+		answer.push_back(i.second);
+	return answer;
 }
