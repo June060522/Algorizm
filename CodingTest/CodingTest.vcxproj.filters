@@ -2467,6 +2467,9 @@
       <Filter>소스 파일\코드트리</Filter>
     </ClCompile>
     <ClCompile Include="testtest.cpp">
+      <Filter>소스 파일\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="testJuneProblem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
